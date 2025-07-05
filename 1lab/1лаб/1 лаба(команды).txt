@@ -1,0 +1,8 @@
+Copy con 
+sort
+cd
+mkdir
+>
+type
+doskey /history
+

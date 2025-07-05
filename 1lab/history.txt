@@ -1,0 +1,46 @@
+copy con 124.txt
+Yulin
+Petrov
+kuznetsov
+morozova
+lebedev
+zaharova
+pavlov
+sort 124.txt
+sorted.txt
+sort 124.txt>sorted.txt
+copy con dir.txt
+hfjsdkfhd
+help DIR
+help DIR>dir.txt
+dir.txt
+copy con copy.txt
+
+help COPY>copy.txt
+copy.txt
+copy con xcopy.txt
+
+help XCOPY>xcopy.txt
+copy con comm
+
+copy con comm.txt
+
+dir/?>>comm.txt
+copy/?>>comm.txt
+xcopy?>>comm.txt
+xcopy/?>>comm.txt
+type comm.txt
+DIR C:\Windows\*.jpg\rash
+DIR C:\Windows\*.jpg/rash
+DIR C:\Windows\*.jpg/a
+DIR C:\Windows\*.jpg/s
+copy con jpg.txt
+
+DIR C:\Windows\*.jpg/s /o:n>>jpg.txt
+
+type jpg.txt
+xcopy Z:\*.png "Z:\1--è¨¤--2(Ž‘‘’_‡‚……‚)\„ã¡®¢¨ª ž«¨ï"
+del comm
+copy con history.txt
+
+doskey/history>history.txt

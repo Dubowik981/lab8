@@ -1,0 +1,1 @@
+Get-Process | Sort -property Starttime | Convertto-html -property Name, id, Starttime, Handles > F:\учеба\ОССТ\done\4lab\6.html
